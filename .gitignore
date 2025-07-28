@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA project files
+.idea/
+
+# Compiled Java class files
+out/
+*.class
+
+# Log files
+*.log
